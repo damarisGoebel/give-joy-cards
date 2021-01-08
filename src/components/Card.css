@@ -2,11 +2,12 @@ body {
     /* background: url(https://images.unsplash.com/photo-1586074299757-dc655f18518c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80); */
     
     
-    /* background: rgb(34,193,195);
-background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%); */
+    background:black;
+/* background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%); */
     
     font-family:-apple-system, BlinkMacSystemFont, "Neue Haas Grotesk Text Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;;
     min-height: 1000px;
+    color:white;
 }
 
 #columns {
@@ -18,12 +19,14 @@ background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%
 }
 
 div#columns figure {
-    background: #fefefe;
+    background: inherit;
     border-radius: 25px;
     margin: 0 2px 15px;
     padding-bottom: 10px;
     transition: opacity .4s ease-in-out;
     display: inline-block;
+    box-shadow: 2px 2px pink;
+
 }
 
 div#columns figure img {
@@ -37,7 +40,7 @@ div#columns figure figcaption {
     padding-top: 15px;
     padding: 15px 15px;
     font-size: .9rem;
-    color:black;
+    color:white;
     line-height: 1.5;
     font-weight: bold;
 
@@ -60,7 +63,4 @@ div#columns:hover figure:not(:hover) {
     opacity: 0.4;
 }
 
-@media screen and (max-width: 750px) { 
-    #columns { column-gap: 0px; }
-    #columns figure { width: 100%; }
-}
+

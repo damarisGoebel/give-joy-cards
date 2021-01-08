@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/give-joy-cards/static/css/main.dd94b550.chunk.css",
-    "main.js": "/give-joy-cards/static/js/main.16a2b768.chunk.js",
-    "main.js.map": "/give-joy-cards/static/js/main.16a2b768.chunk.js.map",
+    "main.css": "/give-joy-cards/static/css/main.5e15c4db.chunk.css",
+    "main.js": "/give-joy-cards/static/js/main.dbc3e81f.chunk.js",
+    "main.js.map": "/give-joy-cards/static/js/main.dbc3e81f.chunk.js.map",
     "runtime-main.js": "/give-joy-cards/static/js/runtime-main.49767ae8.js",
     "runtime-main.js.map": "/give-joy-cards/static/js/runtime-main.49767ae8.js.map",
     "static/js/2.721d4ec5.chunk.js": "/give-joy-cards/static/js/2.721d4ec5.chunk.js",
@@ -10,14 +10,13 @@
     "static/js/3.fcae9fe2.chunk.js": "/give-joy-cards/static/js/3.fcae9fe2.chunk.js",
     "static/js/3.fcae9fe2.chunk.js.map": "/give-joy-cards/static/js/3.fcae9fe2.chunk.js.map",
     "index.html": "/give-joy-cards/index.html",
-    "static/css/main.dd94b550.chunk.css.map": "/give-joy-cards/static/css/main.dd94b550.chunk.css.map",
-    "static/js/2.721d4ec5.chunk.js.LICENSE.txt": "/give-joy-cards/static/js/2.721d4ec5.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/give-joy-cards/static/media/logo.6ce24c58.svg"
+    "static/css/main.5e15c4db.chunk.css.map": "/give-joy-cards/static/css/main.5e15c4db.chunk.css.map",
+    "static/js/2.721d4ec5.chunk.js.LICENSE.txt": "/give-joy-cards/static/js/2.721d4ec5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.49767ae8.js",
     "static/js/2.721d4ec5.chunk.js",
-    "static/css/main.dd94b550.chunk.css",
-    "static/js/main.16a2b768.chunk.js"
+    "static/css/main.5e15c4db.chunk.css",
+    "static/js/main.dbc3e81f.chunk.js"
   ]
 }

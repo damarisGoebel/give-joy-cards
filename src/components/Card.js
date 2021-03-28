@@ -10,7 +10,7 @@ function Card() {
         <figure>
 
         <img src={image.image}/>
-          <figcaption>{image.category}</figcaption>
+          <figcaption> <span>{image.category}</span></figcaption>
           </figure>
           )}
         <small>&copy; <a href="www.damarisgoebel.com">Damaris Göbel</a></small>

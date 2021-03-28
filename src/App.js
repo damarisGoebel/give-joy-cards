@@ -12,7 +12,7 @@ function App() {
     </head>
 
     <header className="header" >
-     <div>Give a little joy cards</div>
+     <div>Give joy cards</div>
     </header>
 
     <Card/>
